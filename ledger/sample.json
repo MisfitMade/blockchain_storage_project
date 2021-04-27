@@ -1,0 +1,34 @@
+[//List of Blocks
+  {//Block Info
+    "hash":"00000000052c31495cf4c2afcea5ad5762fded7444a2bba0dcf600fa3fc900b1",
+    "merkle_root":"349b555f258065c70d4a3ae9f59851d1c7c4c4625b3147d3bafcd12e01d4a168",
+    "nonce":2263035107,
+    "timestamp":1612962571,
+    "previous_block_hash":"00000000000000000003de7cc538a226652b1b8bf83dbc38d01e310ff95ac828",
+    "difficulty":21434395961348,
+    "height":670000,
+    "transactions":[//List of all Transactions included in a block
+      {//Transaction details
+        "inputs":[
+          {
+            "prev_addresses":["14LScdd7Ntf8v8fq5UtMNPBf1NtmqUQGu6"],
+            "prev_position":101,
+            "prev_tx_hash":"68b889150cfc1cbfa2050e4ad96a5a10f3e21c906908b11fd06ac6439146ccc8",
+            "prev_type":"P2PKH",
+            "prev_value":1333049,
+            "sequence":4294967295
+          }
+        ],
+        "outputs":[
+          {
+            "addresses":["3EKB1HjTsQ9Ed3MUUirebv1AoKo6tyyxWW"],
+            "value":2864873,
+            "type":"P2SH",
+            "spent_by_tx":"7b94e8e1c3606e1511e0b7f59e8c79457d816d6eee5316278d689facb0f967bc",
+            "spent_by_tx_position":186
+          }
+        ]
+      }
+    ]
+  }
+]
