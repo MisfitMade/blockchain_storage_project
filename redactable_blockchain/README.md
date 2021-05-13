@@ -1,1 +1,1 @@
-A redactable blockchain specific folder.
+analysis_redactable.js uses the blockchain.json file inside the blockchainJSON.zip folder, so to run the analysis_redactable.js, you must first unzip the zipped JSON folder and have the json file in the same folder as analysis_redactable.js. Running it this way will create the .csv file found in this folder. From the .csv file in this folder, the graphs for redactable blockchain were generated.
